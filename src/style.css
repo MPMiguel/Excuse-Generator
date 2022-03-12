@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#excusa{
+   padding-left: 20%;
+   margin-left: 20px;
+}
